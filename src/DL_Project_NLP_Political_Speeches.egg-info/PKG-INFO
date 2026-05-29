@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: DL-Project-NLP-Political-Speeches
+Version: 0.1.0
+Summary: A  deep learning project for DSCI 410/510 about classifying political speeches
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: pandas
+Requires-Dist: ipykernel
+
+Temporary Readme to be updated

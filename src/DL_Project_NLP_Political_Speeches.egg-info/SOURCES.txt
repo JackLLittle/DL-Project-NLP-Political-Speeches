@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/DL_Project_NLP_Political_Speeches.egg-info/PKG-INFO
+src/DL_Project_NLP_Political_Speeches.egg-info/SOURCES.txt
+src/DL_Project_NLP_Political_Speeches.egg-info/dependency_links.txt
+src/DL_Project_NLP_Political_Speeches.egg-info/requires.txt
+src/DL_Project_NLP_Political_Speeches.egg-info/top_level.txt
+src/dl_project_nlp_political_speeches/__init__.py
