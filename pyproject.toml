@@ -12,7 +12,11 @@ dependencies = [
     "torch",
     "torchvision",
     "pandas",
-    "ipykernel"
+    "ipykernel",
+    "transformers",
+    "matplotlib",
+    "numpy",
+    "scikit-learn"
 ]
 
 [tool.setuptools]

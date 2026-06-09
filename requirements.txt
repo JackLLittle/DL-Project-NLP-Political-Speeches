@@ -2,3 +2,7 @@ torch
 torchvision
 pandas
 ipykernel
+transformers
+matplotlib
+numpy
+scikit-learn

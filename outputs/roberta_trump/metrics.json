@@ -1,0 +1,12 @@
+{
+  "train_loss": 0.507732448059243,
+  "train_accuracy": 0.7251082251082251,
+  "dev_loss": 0.30505686663722587,
+  "dev_accuracy": 0.9152542372881356,
+  "test_loss": 0.16218049384718924,
+  "test_accuracy": 0.9298245614035088,
+  "model_name": "roberta-base",
+  "max_length": 256,
+  "batch_size": 8,
+  "epochs": 4
+}

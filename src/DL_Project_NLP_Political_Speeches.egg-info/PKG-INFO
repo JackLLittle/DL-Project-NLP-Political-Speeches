@@ -8,5 +8,9 @@ Requires-Dist: torch
 Requires-Dist: torchvision
 Requires-Dist: pandas
 Requires-Dist: ipykernel
+Requires-Dist: transformers
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
 
 Temporary Readme to be updated
