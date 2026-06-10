@@ -1,2 +1,2 @@
 outputs/roberta_trump/model.pt
-src/data/
+src/data/us2020data
